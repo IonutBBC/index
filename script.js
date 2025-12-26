@@ -1,6 +1,5 @@
 const songs = [
   "BODO x SUSANU - Duduie duduia.mp3",
-  "Florian Rus feat. Inna - 7 zile.mp3",
   "Dani Mocanu - Minora.mp3",
   "Florin Salam feat. Florin Cercel - Bomba.mp3"
 ];
@@ -93,6 +92,7 @@ setInterval(() => {
         b.style.background = `hsl(${Math.random()*360},100%,60%)`;
     });
 }, 1200);
+
 
 
 
