@@ -1,6 +1,7 @@
 const songs = [
   "BODO x SUSANU - Duduie duduia.mp3",
   "Florian Rus feat. Inna - 7 zile.mp3",
+  "Dani Mocanu - Minora.mp3"
 ];
 const playlist = document.getElementById("playlist");
 const audio = document.getElementById("audio");
@@ -91,5 +92,6 @@ setInterval(() => {
         b.style.background = `hsl(${Math.random()*360},100%,60%)`;
     });
 }, 1200);
+
 
 
