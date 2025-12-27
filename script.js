@@ -1,4 +1,5 @@
 const songs = [
+  "Dani Mocanu Florin Cercel - Perdoname",
   "BogdanDLP - Banii Evantai",
   "Raul Talent - Talentul ala fin.mp3",
   "Jador x Carmen de la Salciua - Ce faci ești bine.mp3",
@@ -99,6 +100,7 @@ setInterval(() => {
         b.style.background = `hsl(${Math.random()*360},100%,60%)`;
     });
 }, 1200);
+
 
 
 
