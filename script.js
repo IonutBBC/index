@@ -1,13 +1,13 @@
 const songs = [
-  "Dani Mocanu Florin Cercel - Perdoname",
-  "BogdanDLP - Banii Evantai",
+  "Dani Mocanu Florin Cercel - Perdoname.mp3",
+  "BogdanDLP - Banii Evantai.mp3",
   "Raul Talent - Talentul ala fin.mp3",
   "Jador x Carmen de la Salciua - Ce faci ești bine.mp3",
   "Bogdan DLP - Aladam.mp3",
   "BODO x SUSANU - Duduie duduia.mp3",
   "Dani Mocanu - Minora.mp3",
   "Florin Salam feat. Florin Cercel - Bomba.mp3",
-  "Bogdan DLP  Arianna - Ce Te-as Suna",
+  "Bogdan DLP  Arianna - Ce Te-as Suna.mp3",
   "Nicolae Guta si Play AJ - Lasa muzica la maxim.mp3",
   "Tzanca Uraganu x Costel Biju - Bambolera.mp3"
 ];
@@ -100,6 +100,7 @@ setInterval(() => {
         b.style.background = `hsl(${Math.random()*360},100%,60%)`;
     });
 }, 1200);
+
 
 
 
