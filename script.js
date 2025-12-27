@@ -6,6 +6,7 @@ const songs = [
   "BODO x SUSANU - Duduie duduia.mp3",
   "Dani Mocanu - Minora.mp3",
   "Florin Salam feat. Florin Cercel - Bomba.mp3",
+  "Bogdan DLP  Arianna - Ce Te-as Suna",
   "Nicolae Guta si Play AJ - Lasa muzica la maxim.mp3",
   "Tzanca Uraganu x Costel Biju - Bambolera.mp3"
 ];
@@ -98,6 +99,7 @@ setInterval(() => {
         b.style.background = `hsl(${Math.random()*360},100%,60%)`;
     });
 }, 1200);
+
 
 
 
